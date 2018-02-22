@@ -2,6 +2,14 @@ Git Commands
 ============
 
 
+### Setup
+
+| Command | Description |
+| ------- | ----------- |
+| git config --global user.name  [fistName lastName]
+ 
+
+
 ### Getting & Creating Projects
 
 | Command | Description |
