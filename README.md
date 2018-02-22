@@ -6,14 +6,14 @@ Git Commands
 
 | Command | Description |
 | ------- | ----------- |
-| git config --global user.name  [fistName lastName]
+|  git config --global user.name  [fistname lastname] | Set a name that is identifiable for credet when revies version history |
  
 
 
 ### Getting & Creating Projects
 
 | Command | Description |
-| ------- | ----------- |
+| ------- | ----------- |revies version hostory
 | `git init` | Initialize a local Git repository |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
 
