@@ -6,9 +6,9 @@ Git Commands
 
 | Command | Description |
 | ------- | ----------- |
-|  git config --global user.name  [fistname lastname]  |  Set a name that is identifiable for credit when reviewing version history  |
-|  git config --global user.email [valid-email]  |  Set an email address that will be associated with each history marker  |
-|  git config --global color.ui auto  |  Set automatic command line coloring for Git for easy reviewing  |
+|  `git config --global user.name  [fistname lastname]`  |  Set a name that is identifiable for credit when reviewing history  |
+|  `git config --global user.email [valid-email]`  |  Set an email address that will be associated with each history marker  |
+|  `git config --global color.ui auto`  |  Set automatic command line coloring for Git for easy reviewing  |
  
 ### Getting & Creating Projects
 
